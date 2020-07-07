@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 8af30bd1434b7f54f8d0cf2b31d8a231
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1160457751336642881
+    second: weapon-wheel_0
+  - first:
+      213: 3189023776787998109
+    second: weapon-wheel_1
+  - first:
+      213: 743169879369299974
+    second: weapon-wheel_2
+  - first:
+      213: 3753589907677459610
+    second: weapon-wheel_3
+  - first:
+      213: -8276977779579928084
+    second: weapon-wheel_4
+  - first:
+      213: 598893807990392441
+    second: weapon-wheel_5
+  - first:
+      213: -2179980650984716638
+    second: weapon-wheel_6
+  - first:
+      213: -6220135358877030264
+    second: weapon-wheel_7
+  - first:
+      213: 337193900742595530
+    second: weapon-wheel_8
+  - first:
+      213: -5512120817945395628
+    second: weapon-wheel_9
+  - first:
+      213: -3578800826965652605
+    second: weapon-wheel_10
+  - first:
+      213: -3772368728983900156
+    second: weapon-wheel_11
+  - first:
+      213: -8953778943184533584
+    second: weapon-wheel_12
+  - first:
+      213: 5529247027202510783
+    second: weapon-wheel_13
+  - first:
+      213: -6159842348048894992
+    second: weapon-wheel_14
+  - first:
+      213: -5417975865525259625
+    second: weapon-wheel_15
+  - first:
+      213: -8048671837792232
+    second: weapon-wheel_16
+  - first:
+      213: -7370761548069778196
+    second: weapon-wheel_17
+  - first:
+      213: -7508214938477090305
+    second: weapon-wheel_18
+  - first:
+      213: -7366767332896591392
+    second: weapon-wheel_19
+  - first:
+      213: 4492195017462132202
+    second: weapon-wheel_20
+  - first:
+      213: -1933904786463535184
+    second: weapon-wheel_21
+  - first:
+      213: -5217170321918326806
+    second: weapon-wheel_22
+  - first:
+      213: -1441227167336820170
+    second: weapon-wheel_23
+  - first:
+      213: 1618192189673610926
+    second: weapon-wheel_24
+  - first:
+      213: -3132838434054590538
+    second: weapon-wheel_25
+  - first:
+      213: 265580659143574608
+    second: weapon-wheel_26
+  - first:
+      213: -7799005845765870380
+    second: weapon-wheel_27
+  - first:
+      213: 4194607621627584604
+    second: weapon-wheel_28
+  - first:
+      213: -6504683164813868343
+    second: weapon-wheel_29
+  - first:
+      213: -3525728086659239202
+    second: weapon-wheel_30
+  - first:
+      213: -8504677229626518913
+    second: weapon-wheel_31
+  - first:
+      213: 6353629871798488848
+    second: weapon-wheel_32
+  - first:
+      213: -8276451426774354130
+    second: weapon-wheel_33
+  - first:
+      213: 7674574828009342928
+    second: weapon-wheel_34
+  - first:
+      213: -1726734402799369072
+    second: weapon-wheel_35
+  - first:
+      213: 702013336068649905
+    second: weapon-wheel_36
+  - first:
+      213: 3492416090231509112
+    second: weapon-wheel_37
+  - first:
+      213: -3818424765024814551
+    second: weapon-wheel_38
+  - first:
+      213: -2738921339530118183
+    second: weapon-wheel_39
+  - first:
+      213: -7220711011099201779
+    second: weapon-wheel_40
+  - first:
+      213: 6872466408564978636
+    second: weapon-wheel_41
+  - first:
+      213: -7166295488637877060
+    second: weapon-wheel_42
+  - first:
+      213: -6816892689175092745
+    second: weapon-wheel_43
+  - first:
+      213: 6447080548406960373
+    second: weapon-wheel_44
+  - first:
+      213: -6489108690699362159
+    second: weapon-wheel_45
+  - first:
+      213: 5906273723806579711
+    second: weapon-wheel_46
+  - first:
+      213: -2173872248341697559
+    second: weapon-wheel_47
+  - first:
+      213: -7976623191319559955
+    second: weapon-wheel_48
+  - first:
+      213: 6492893754723891309
+    second: weapon-wheel_49
+  - first:
+      213: -1913572944823235681
+    second: weapon-wheel_50
+  - first:
+      213: -1673799669343880489
+    second: weapon-wheel_51
+  - first:
+      213: 3224681665961170603
+    second: weapon-wheel_52
+  - first:
+      213: -8198505328121410786
+    second: weapon-wheel_53
+  - first:
+      213: 6652955009502164385
+    second: weapon-wheel_54
+  - first:
+      213: 3308707866419585303
+    second: weapon-wheel_55
+  - first:
+      213: 5759648238822609847
+    second: weapon-wheel_56
+  - first:
+      213: -9630363435778201
+    second: weapon-wheel_57
+  - first:
+      213: -2214286660151502596
+    second: weapon-wheel_58
+  - first:
+      213: 4621408610818301996
+    second: weapon-wheel_59
+  - first:
+      213: 2262842203897345989
+    second: weapon-wheel_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapon-wheel_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 149
+        width: 149
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c73012defa376f10800000000000000
+      internalID: 2262842203897345989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon-wheel_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 343
+        width: 240
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9529b39a30b14c20800000000000000
+      internalID: 3189023776787998109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon-wheel_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 150
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608b39b5115405a00800000000000000
+      internalID: 743169879369299974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon-wheel_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 21
+        width: 242
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a943b97322e671430800000000000000
+      internalID: 3753589907677459610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
